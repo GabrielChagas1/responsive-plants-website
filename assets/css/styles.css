@@ -795,7 +795,9 @@ the website, in dark theme
 }
 
 /* Show Scroll Up*/
-
+.show-scroll{
+  bottom: 3rem;
+}
 
 /*=============== SCROLL BAR ===============*/
 
