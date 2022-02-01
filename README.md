@@ -21,7 +21,7 @@
 * [Links Contato](#links-contato)
 
 # Descrição
-Criação da interface do WhatsApp Web para treino e fixação dos conteúdos aprendendido durante a aula [**@OBedimCode**](https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ)
+Criação da interface do WhatsApp Web para treino e fixação dos conteúdos aprendendido durante a aula [**@BedimCode**](https://www.youtube.com/channel/UCgkDs77BoEhMIgRUB4MKrtQ)
 
 # Techs: 
 - **HTML**
